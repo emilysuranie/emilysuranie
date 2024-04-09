@@ -3,7 +3,7 @@
 <h2>Technical Writing Portfolio:</h2>
 
 - <b>Analysis Report</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Competitive Review of Streaming Services]((https://github.com/emilysuranie/CompetitiveReview))
 - <b>Case Study</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  - <b>Instructional Guide</b>
