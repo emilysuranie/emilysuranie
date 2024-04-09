@@ -11,7 +11,7 @@
 - <b>Proposal</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Rolling Dice Code](https://github.com/emilysuranie/DiceLab)
 
 <h2> 🤳 Connect with me:</h2>
 
