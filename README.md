@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emily! <br/><a 
 
-<h2>Writing Portfolio:</h2>
+<h2>Technical Writing Portfolio:</h2>
 
 - <b>Analysis Report</b>
   - [Competitive Review of Streaming Services](https://github.com/emilysuranie/CompetitiveReview)
