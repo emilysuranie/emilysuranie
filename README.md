@@ -7,7 +7,7 @@
 - <b>Case Study</b>
   - [Pluto TV Case Study](https://github.com/emilysuranie/PlutoTVCaseStudy)
 - <b>Instructional Guide</b>
-  - [Zotero Instructional Guide](https://github.com/emilysuranie/ZoteroHomepage)
+  - [Zotero Homepage for Temple University](https://github.com/emilysuranie/ZoteroHomepage)
 - <b>Proposal</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
