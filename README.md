@@ -9,7 +9,7 @@
 - <b>Instructional Guide</b>
   - [Zotero Homepage for Temple University](https://github.com/emilysuranie/ZoteroHomepage)
 - <b>Proposal</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zotero Proposal](https://github.com/emilysuranie/ZoteroProposal)
 - <b>Python</b>
   - [Rolling Dice Code](https://github.com/emilysuranie/DiceLab)
 <!--
