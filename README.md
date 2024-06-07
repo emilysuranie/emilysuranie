@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emily! <br/><a 
-<h2>This is my Technical Writing Portfolio:</h2>
+<h2>This is my Writing Portfolio:</h2>
 
 <b>About Me:</b>
 
