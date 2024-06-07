@@ -10,10 +10,10 @@ I am a recent English graduate with hands-on experience in professional writing 
   - [Competitive Review of Streaming Services](https://github.com/emilysuranie/CompetitiveReview)
 - <b>Case Study:</b>
   - [Pluto TV Case Study](https://github.com/emilysuranie/PlutoTVCaseStudy)
-- <b>Instructional Guide:</b>
-  - [Zotero Homepage for Temple University](https://github.com/emilysuranie/ZoteroHomepage)
 - <b>Proposal:</b>
   - [Zotero Proposal](https://github.com/emilysuranie/ZoteroProposal)
+- <b>Instructional Guide:</b>
+  - [Zotero Homepage for Temple University](https://github.com/emilysuranie/ZoteroHomepage)
 - <b>Python:</b>
   - [Rolling Dice Code](https://github.com/emilysuranie/DiceLab)
 <!--
