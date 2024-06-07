@@ -1,4 +1,5 @@
 <h1>Hi, I'm Emily! <br/><a 
+<b>I am a recent English graduate with hands-on experience in professional writing and customer service. I successfully completed an internship at Drive Engineering, gaining valuable skills in research, content creation, and project management. I possess excellent communication abilities, a keen eye for detail, and a passion for crafting compelling narratives. I have demonstrated a strong work ethic and time management skills through three years of experience as a team lead and barista, balancing part-time work with academic commitments. I am seeking to leverage my writing expertise and customer-focused experience in a professional environment.</b>
 
 <h2>This is my Technical Writing Portfolio:</h2>
 
@@ -13,30 +14,4 @@
 - <b>Python</b>
   - [Rolling Dice Code](https://github.com/emilysuranie/DiceLab)
 <!--
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-<!--
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
