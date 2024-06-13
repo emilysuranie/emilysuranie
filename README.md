@@ -3,7 +3,8 @@
 
 <b>About Me:</b>
 
-I am a recent English graduate with hands-on experience in professional writing and customer service. This past summer, I successfully completed an internship at Drive Engineering, gaining valuable skills in research, content creation, and project management. I've developed excellent communication abilities, attention to detail, and a passion for creating compelling narratives. By balancing part-time work with academic commitments, I have demonstrated a strong work ethic and time management skills through three years of experience as a team lead and barista. I am seeking to leverage my writing expertise and customer-focused experience in a professional environment.
+In May 2024, I graduated from Temple University with an English degree and a Professional Writing Certificate. During my years at Temple, I found my love for writing, and my interest in the technological field led me to discover Technical Writing. Since then, I have grown a passion for creating concise, precise, and user-focused documents. Throughout my time at school, I worked at Saxbys as a Team Lead and Barista. This job has molded me into a diligent and dedicated individual, as I balanced my course load while working nearly every day. Last summer, I was presented the opportunity to work with Drive Engineering as a Proposal Writer Intern. This internship confirmed my desire to work in the tech industry. It taught me how to communicate with others in a professional environment, produce well-crafted documents while meeting deadlines, and navigate complex technical terms. I am currently seeking to use my skills and experiences to improve a company’s productivity within a professional setting.
+
 
 <b>Writing Samples:<b>
 - <b>Analysis Report:</b>
