@@ -7,8 +7,6 @@ In May 2024, I graduated from Temple University with an English degree and a Pro
 
 
 <b>Writing Samples:<b>
-- <b>Analysis Report:</b>
-  - [Competitive Review of Streaming Services](https://github.com/emilysuranie/CompetitiveReview)
 - <b>Case Study:</b>
   - [Pluto TV Case Study](https://github.com/emilysuranie/PlutoTVCaseStudy)
 - <b>Proposal:</b>
@@ -18,4 +16,6 @@ In May 2024, I graduated from Temple University with an English degree and a Pro
 - <b>Python:</b>
   - [Rolling Dice Code](https://github.com/emilysuranie/DiceLab)
 <!--
+- <b>Analysis Report:</b>
+  - [Competitive Review of Streaming Services](https://github.com/emilysuranie/CompetitiveReview) 
 
