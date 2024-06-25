@@ -14,7 +14,7 @@ I am currently seeking to use my writing and communication skills to promote the
 
 
 <b>Writing Samples:<b>
-- <b>Case Study:</b>
+- <b>UX Case Study:</b>
   - [Pluto TV Case Study](https://github.com/emilysuranie/PlutoTVCaseStudy)
 - <b>Proposal:</b>
   - [Zotero Proposal](https://github.com/emilysuranie/ZoteroProposal)
