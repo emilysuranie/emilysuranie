@@ -3,7 +3,7 @@
 
 <b>About Me:</b>
 
-In May 2024, I graduated from Temple University with an English degree. During college, my love for writing flourished, along with my interest in technology. From this, I discovered technical writing and my passion for it developed quickly. This inspired me to attain a Professional Writing Certificate, which has transformed my writing to be precise, informative, and user-friendly. 
+In May 2024, I graduated from Temple University with an English degree. During college, my love for writing flourished, along with my interest in technology. From this, I discovered technical writing and my passion for it developed quickly. This inspired me to attain a Professional Writing Certificate, which has transformed my writing into precise, informative, and user-friendly pieces. 
 
 Since my sophomore year of college, I have worked as a Team Lead and Barista at Saxbys. Staying on top of my academic requirements while working part-time has forced me to manage my time wisely. This has made me a diligent worker and has helped build my communication and decision making skills. 
 
